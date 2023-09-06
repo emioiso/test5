@@ -16,6 +16,7 @@
 		855C98A12AA8708E00B70C58 /* test5Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C98A02AA8708E00B70C58 /* test5Tests.swift */; };
 		855C98AB2AA8708E00B70C58 /* test5UITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C98AA2AA8708E00B70C58 /* test5UITests.swift */; };
 		855C98AD2AA8708E00B70C58 /* test5UITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 855C98AC2AA8708E00B70C58 /* test5UITestsLaunchTests.swift */; };
+		855C98BA2AA8730500B70C58 /* .gitignore.xib in Resources */ = {isa = PBXBuildFile; fileRef = 855C98B92AA8730500B70C58 /* .gitignore.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -49,6 +50,7 @@
 		855C98A62AA8708E00B70C58 /* test5UITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = test5UITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		855C98AA2AA8708E00B70C58 /* test5UITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test5UITests.swift; sourceTree = "<group>"; };
 		855C98AC2AA8708E00B70C58 /* test5UITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = test5UITestsLaunchTests.swift; sourceTree = "<group>"; };
+		855C98B92AA8730500B70C58 /* .gitignore.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = .gitignore.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,6 +81,7 @@
 		855C987D2AA8708D00B70C58 = {
 			isa = PBXGroup;
 			children = (
+				855C98B92AA8730500B70C58 /* .gitignore.xib */,
 				855C98882AA8708D00B70C58 /* test5 */,
 				855C989F2AA8708E00B70C58 /* test5Tests */,
 				855C98A92AA8708E00B70C58 /* test5UITests */,
@@ -232,6 +235,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				855C98962AA8708E00B70C58 /* LaunchScreen.storyboard in Resources */,
+				855C98BA2AA8730500B70C58 /* .gitignore.xib in Resources */,
 				855C98932AA8708E00B70C58 /* Assets.xcassets in Resources */,
 				855C98912AA8708D00B70C58 /* Main.storyboard in Resources */,
 			);
